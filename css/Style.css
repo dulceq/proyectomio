@@ -1,0 +1,29 @@
+	<style type="text/css">
+#navegador ul{
+   list-style-type: none;
+   text-align: center;
+}
+#navegador li{
+   display: inline;
+   text-align: center;
+   margin: 1 15px 0 0;
+   height: 100%;
+   width: 100%;
+
+}
+#navegador li a {
+   padding: 8px 7px 2px 9px;
+   color: #666;
+   background-color: #eeeeee;
+   border: 9px solid #ccc;
+   text-decoration: none;
+      height: 100%;
+   width: 100%;
+
+}
+#navegador li a:hover{
+   background-color: #333333;
+   color: #ffffff;
+}
+#rojo
+background-color: gray;
